@@ -41,7 +41,4 @@ Djangify is an educational mobile application designed to help students access l
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/djangify.git
-
-   ```bash
-   cd djangify
    
