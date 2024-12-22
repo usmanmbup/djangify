@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "824190314228",
+    "project_id": "djangify-eafdb",
+    "storage_bucket": "djangify-eafdb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824190314228:android:305128bd61cc4a74a6a0a1",
+        "android_client_info": {
+          "package_name": "com.usmanmbup.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGtH8m0CJ17XJiqkE6T9yaLlg1soSIqWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
